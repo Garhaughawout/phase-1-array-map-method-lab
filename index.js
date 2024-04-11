@@ -19,7 +19,7 @@ const titleCased = () => {
         let result = capWords.join(' ')
         newArray.push(result)
      })
-     return console.log(newArray)
+     return newArray
     
 }
 
